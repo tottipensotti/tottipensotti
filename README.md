@@ -5,5 +5,3 @@
 I started my journey into data in 2019 and since that time I've been working across the entire data spectrum.
 
 If it has code in it, I want to dive right in
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tottipensotti&theme=dark&layout=compact)](https://github.com/tottipensotti/github-readme-stats)
